@@ -4,9 +4,13 @@
 Welcome to the `ASM` organization! This repository contains various group projects and resources.
 
 ## Table of Contents
+- [Overview](#overview)
 - [Projects](#projects)
+- [Languages](#languages)
+- [Technologies](#technologies)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
+- [Recurring Contributors](#recurring-contributors)
 - [License](#license)
 - [Contact](#contact)
 
