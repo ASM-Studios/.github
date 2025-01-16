@@ -18,6 +18,7 @@ Welcome to the `ASM` organization! This repository contains various group projec
 Here are some of the key projects in this organization:
 
 - [**R-Type**](https://github.com/ASM-Studios/R-Type) - Creation of a C++ game engine inspired by an '87 arcade game classic.
+- [**AREA**](https://github.com/ASM-Studios/AREA/) - Website and Mobile App made as an [*IFTTT*](https://ifttt.com/) Clone
 - [**MarineMind Robotics**](https://github.com/ASM-Studios/marinemind-robotics-aquabot) - Automation of an unmanned surface vehicle (USV) for wind turbine inspection.
 - [**Promethee**](https://github.com/ASM-Studios/Promethee-Front) - Web-based team-building game featuring questions focused on the 2024 Olympics.
 - [**officeDuTourisme**](https://github.com/ASM-Studios/officeDuTourisme-Front) - GeoGuessr-inspired game centered on exploring various locations in France.
